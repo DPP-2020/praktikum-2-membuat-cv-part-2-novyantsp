@@ -1,0 +1,30 @@
+header {
+    padding: 156px 0 100px;
+  }
+  
+  section {
+    padding: 50px 0;
+  }
+
+  li.hd{
+    list-style-type: none;
+  }
+
+  .skills {
+    text-align: right; /* Right-align text */
+    padding-top: 0px; /* Add top padding */
+    padding-bottom: 0px; /* Add bottom padding */
+    color: white; /* White text color */
+  }
+
+.html {width: 70%; background-color: #F79540;} /* Green */
+
+
+  .bar {
+    width: 100%; /* Full width */
+    background-color: rgb(121, 121, 121); /* Grey background */
+}
+
+h2.isi{
+    color: #F79540;
+}
